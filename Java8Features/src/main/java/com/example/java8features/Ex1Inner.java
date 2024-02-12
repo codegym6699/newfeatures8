@@ -19,7 +19,7 @@ public static void main(String[] args) {
 	new Ex1Inner() {
 		{
 			int a = 0;
-			System.out.println("Hello Inner class()");
+			System.out.println("Hello Inner class() from web");
 			sms(a);
 		}
 		
