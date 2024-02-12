@@ -5,7 +5,7 @@ public class DemoNew {
 	public void newMethod() {
 
 
-		System.out.println("Hi Java and php and html");
+		System.out.println("Hi Java and php and html hello");
 
 	}
 }
