@@ -3,7 +3,7 @@ package com.example.java8features.lamda;
  interface DD {
 
     default void m2() {
-    	System.out.println("default");
+    	System.out.println("default and php");
     }
     
 
